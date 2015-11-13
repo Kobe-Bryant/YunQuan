@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>15D08725-6428-4CBF-8A74-6BF25B852A85</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LinkeBe</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>c844c080-9957-314f-a0aa-fe75a8629fba++9568</key>
+		<string>https://192.168.1.53/svn/HH_Iphone/ql/LinkeBe</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LinkeBe.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>c844c080-9957-314f-a0aa-fe75a8629fba++9568</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>c844c080-9957-314f-a0aa-fe75a8629fba++9568</key>
+		<string>https://192.168.1.53/svn/HH_Iphone</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://192.168.1.53/svn/HH_Iphone/ql/LinkeBe/LinkeBe.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>c844c080-9957-314f-a0aa-fe75a8629fba++9568</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>c844c080-9957-314f-a0aa-fe75a8629fba++9568</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LinkeBe</string>
+		</dict>
+	</array>
+</dict>
+</plist>
